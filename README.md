@@ -6,3 +6,5 @@ Collect some better, practical three party libraries.(收藏一些好的、实�
 
 ## 1.上拉加载、下拉刷新
 [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout "SmartRefreshLayout")
+## 2.图片选择器
+[Matisse](https://github.com/zhihu/Matisse "Matisse")
