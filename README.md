@@ -11,4 +11,4 @@ Collect some better, practical three party libraries.(收藏一些好的、实�
 ## 3.透明状态栏和导航栏
 [UltimateBar](https://github.com/Zackratos/UltimateBar "UltimateBar")
 ## 4.主题换肤
-[android-skin](https://github.com/ximsfei/Android-skin-support "android-skin")
+[android-skin-support](https://github.com/ximsfei/Android-skin-support "android-skin")
